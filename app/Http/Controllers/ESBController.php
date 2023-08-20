@@ -15,7 +15,7 @@ class ESBController extends Controller
      */
     public function index()
     {
-        //
+        return "some update";
     }
 
     /**
